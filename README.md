@@ -25,8 +25,8 @@ This repository is organized by the principle **"one branch per lab"**.
 
 1.  Clone this repository (if you haven't already):
     ```bash
-    git clone ([https://github.com/1GinRan1/ESP32_Labs.git](https://github.com/1GinRan1/ESP32_Labs.git))
-    cd ESP32_Labs
+    git clone https://github.com/1GinRan1/ESP_Labs.git
+    cd ESP_Labs
     ```
     *(Note: update the repository URL if you changed the repository name)*
 
